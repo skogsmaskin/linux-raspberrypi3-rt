@@ -40,6 +40,7 @@ md5sums=('SKIP'
          'SKIP'
          'SKIP'
          'SKIP'
+         'SKIP'
          'SKIP')
 
 prepare() {
